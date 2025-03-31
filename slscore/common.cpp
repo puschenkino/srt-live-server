@@ -46,7 +46,7 @@
 
 
 #include "common.hpp"
-
+#include <time.h>
 
 /**
 * sls_format
